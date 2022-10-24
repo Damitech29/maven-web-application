@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Dami Tech Releases Nexus Repository</name>
+	      <name>DamiTech Releases Nexus Repository</name>
 	      <url>http://18.209.19.106:4000/repository/passat-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>DamiTech Snapshot Nexus Repository </name>
 	      <url>http://18.209.19.106:4000/repository/passat-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
