@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>damiTech Releases Nexus Repository</name>
-	      <url>http://18.209.19.106:4000/repository/passat-bts-releases/</url>
+	      <url>http://54.173.209.112:4000/repository/passat-bts-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>damiTech Snapshot Nexus Repository </name>
-	      <url>http://18.209.19.106:4000/repository/passat-bts-snapshot/</url>
+	      <url>http://54.173.209.112:4000/repository/passat-bts-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
